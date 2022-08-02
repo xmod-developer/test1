@@ -12,6 +12,7 @@ import com.developer.soutos16lockscreen.R
 class SplashActivity : AppCompatActivity() {
 
     companion object{
+	git development branch kayıt edildi	
         lateinit  var sharedCheck : SharedPreferences
 	lateinit var burasYeniDeğişken : Shared
     }
