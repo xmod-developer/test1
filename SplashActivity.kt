@@ -13,6 +13,7 @@ class SplashActivity : AppCompatActivity() {
 
     companion object{
         lateinit  var sharedCheck : SharedPreferences
+	lateinit var burasYeniDeğişken : Shared
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
